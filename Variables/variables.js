@@ -4,7 +4,7 @@
 //variables are containers for storing different types of data  which are in the form of number,string,boolean etc.,
 age=23;
 name="Afrin";
-priceOfProduct=37.45;
+priceOfProduct=37.49;
 isFollow=true
 console.log(name);
 console.log(age);
